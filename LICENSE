@@ -1,21 +1,30 @@
-MIT License
-
+Licencia de Uso del Firmware - DoorLink
 Copyright (c) 2025 PLEXYLAB
+Versión 1.0 – 2025
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este firmware ("Firmware") es propiedad de PLEXYLAB y se encuentra protegido bajo los términos de esta licencia. Al descargar, instalar o utilizar el Firmware, usted acepta cumplir con los siguientes términos y condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permiso de Uso
+Se otorga permiso para utilizar este Firmware únicamente en el dispositivo DoorLink para el cual ha sido diseñado y distribuido. Este permiso es de carácter personal, intransferible y no exclusivo.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restricciones
+Uso exclusivo en DoorLink: Este Firmware no puede ser utilizado en ningún otro dispositivo distinto de DoorLink.
+Prohibición de modificación: No está permitido modificar, descompilar, realizar ingeniería inversa, desensamblar ni alterar el Firmware de ninguna manera.
+Prohibición de distribución y venta: No se permite la venta, sublicenciamiento, distribución o cualquier otro tipo de comercialización del Firmware, ya sea de forma gratuita o mediante pago.
+
+3. Propiedad Intelectual
+El Firmware y cualquier actualización futura continúan siendo propiedad exclusiva de PLEXYLAB. Esta licencia no concede ningún derecho de propiedad intelectual sobre el Firmware.
+
+4. Exención de Garantía
+El Firmware se proporciona "TAL CUAL", sin garantías de ningún tipo, ya sean expresas o implícitas, incluyendo, entre otras, garantías de comerciabilidad, idoneidad para un propósito particular o ausencia de infracción.
+
+5. Limitación de Responsabilidad
+En ningún caso PLEXYLAB será responsable de daños directos, indirectos, incidentales, especiales o consecuentes que resulten del uso o la imposibilidad de uso del Firmware.
+
+6. Terminación de la Licencia
+Esta licencia se considerará terminada de forma automática si el usuario incumple cualquiera de sus términos. En caso de terminación, el usuario deberá cesar inmediatamente el uso del Firmware y eliminar cualquier copia en su posesión.
+
+7. Legislación Aplicable
+Esta licencia se rige por las leyes vigentes en el país de registro de PLEXYLAB, sin perjuicio de los principios de conflicto de leyes.
+
+PLEXYLAB se reserva el derecho de modificar los términos de esta licencia en cualquier momento sin previo aviso. La versión más reciente estará disponible en el sitio web oficial de la empresa.
