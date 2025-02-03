@@ -25,4 +25,4 @@ Si la actualización OTA falla, el firmware deberá actualizarse manualmente med
 
 ##  Notas
 Este repositorio no contiene código fuente, solo los archivos binarios para la actualización.
-Para soporte técnico, contacta con contacto@plexylab.com.
+Para soporte técnico, contacta con contacto@plexylab.net.
