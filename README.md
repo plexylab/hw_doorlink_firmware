@@ -4,25 +4,29 @@ Repositorio oficial para la distribución de firmware de DoorLink
 ## Descripción
 Este repositorio está destinado exclusivamente a la distribución de las versiones más recientes del firmware de DoorLink. Aquí encontrarás los archivos binarios (firmware.bin) necesarios para actualizar el dispositivo mediante OTA (Over-the-Air) o mediante interfaz USB en caso de ser necesario.
 
-## Descarga de firmware
-Para descargar la última versión del firmware, visita la sección de Releases.
-
-## Características del firmware
-- Optimización de rendimiento.
-- Integración con Ethernet para gestión remota.
-- Compatibilidad con actualizaciones OTA.
-- Registro y monitoreo en tiempo real.
-
 ## ⚠ Advertencia
-No interrumpas el proceso de actualización ni cierres la ventana mientras el firmware se está instalando.
+No interrumpa el proceso de actualización ni cierre el navegador mientras el firmware se está instalando.
 Si la actualización OTA falla, el firmware deberá actualizarse manualmente mediante la interfaz USB.
 
+## Descargar firmware
+Para descargar la última versión del firmware, visite la sección de [**Releases**](https://github.com/plexylab/hw_doorlink_firmware/releases/latest).
+
+## Características del firmware
+- Sensor de apertura de puerta para monitoreo de acceso.
+- Sensor inteligente administrable con configuraciones personalizadas.
+- Soporte para actualizaciones OTA, permitiendo actualizaciones remotas del firmware.
+- Notificaciones remotas a través de Telegram y correo electrónico para alertas en tiempo real.
+- Compatibilidad con conexión a Internet mediante interfaz Ethernet.
+
 ## Instrucciones de actualización OTA
-- Asegúrate de que DoorLink está conectado a Internet.
-- Envía una solicitud de actualización desde la interfaz web.
-- El dispositivo descargará automáticamente el último firmware desde este repositorio.
-- Una vez finalizada la actualización, DoorLink se reiniciará con la nueva versión.
+- Asegúrese de tener una conexión a Internet.
+- Acepte los términos de actualización de firmware.
+- Descargue el fichero [**firmware.bin**](https://github.com/plexylab/hw_doorlink_firmware/releases/latest), luego cargue en la interfaz de actualización y de clic en actualizar.
+- No interrumpa el proceso de actualización OTA y asegúrese de que el dispositivo permanezca encendido durante la instalación.
+- En caso de fallo en la actualización OTA, realice la actualización manual mediante la interfaz USB.
+- Antes de iniciar la actualización, verifique que la conexión de red sea estable para evitar interrupciones.
+- Una vez finalizada la actualización, el dispositivo se reiniciará con la nueva versión.
 
 ##  Notas
 Este repositorio no contiene código fuente, solo los archivos binarios para la actualización.
-Para soporte técnico, contacta con contacto@plexylab.net.
+Para soporte técnico, contacte a: contacto@plexylab.net.
