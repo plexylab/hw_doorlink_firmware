@@ -1,6 +1,9 @@
 # DoorLink Firmware
 Repositorio oficial para la distribución de firmware de DoorLink
 
+![Versión](https://img.shields.io/badge/Versión-v1.1.0-green)
+![Estado](https://img.shields.io/badge/Estado-En%20desarrollo-orange)
+
 ## Descripción
 Este repositorio está destinado exclusivamente a la distribución de las versiones más recientes del firmware de DoorLink. Aquí encontrarás los archivos binarios (firmware.bin) necesarios para actualizar el dispositivo mediante OTA (Over-the-Air) o mediante interfaz USB en caso de ser necesario.
 
